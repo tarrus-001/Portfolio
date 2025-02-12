@@ -6,10 +6,10 @@ export const About = () => {
     "Vue",
     "TypeScript",
     "TailwindCSS",
-    "Svelte",
+    "Javascript",
   ];
 
-  const backendSkills = ["Node.js", "Python", "AWS", "MongoDB", "GraphQL"];
+  const backendSkills = ["Node.js", "PHP", "AWS", "SQL", "GraphQL"];
 
   return (
     <section
@@ -69,7 +69,7 @@ export const About = () => {
               <h3 className="text-xl font-bold mb-4"> 🏫 Education </h3>
               <ul className="list-disc list-inside text-gray-300 space-y-2">
                 <li>
-                  <strong> B.S. in Computer Science </strong> - XYZ University
+                  <strong> B.S. in Computer Science </strong> - TUM University
                   (2016-2020)
                 </li>
                 <li>
@@ -84,7 +84,7 @@ export const About = () => {
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Software Engineer at ABC Corp (2020 - Present){" "}
+                    Software Engineer at TEK tech (2022 - Present){" "}
                   </h4>
                   <p>
                     Developed and maintained microservices for cloud-based
@@ -95,7 +95,7 @@ export const About = () => {
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Intern at DEF Startups (2019){" "}
+                    Intern at Meldeontech Startups (2019){" "}
                   </h4>
                   <p>
                     Assisted in building front-end components and integration
